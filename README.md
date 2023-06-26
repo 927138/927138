@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
-
 
 <!--
 **927138/927138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
